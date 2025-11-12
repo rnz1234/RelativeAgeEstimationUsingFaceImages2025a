@@ -9,6 +9,13 @@ This repository subject is : age estimation from face images (diff based)
 
 Ep3 Pipeline - implementing the "Differential Age Estimation" paper - final outcome of the research.
 
+This project implements the age estimation scheme described in the paper.
+Current best result: MAE=2.45 for Morph2
+
+See E2ePipeline3/README.md for more details.
+
+
+
 ## Other Contents (Developed During Research)
 
 Currently:
