@@ -2,10 +2,10 @@
 
 ## Subject 
 
-This repository holds the content and background research for the paper: "Relative Age Estimation From Face Images".
+This repository holds the content and background research for the paper: "Relative Age Estimation Using Face Images".
 
 
-## "Relative Age Estimation From Face Images" Paper Project
+## "Relative Age Estimation Using Face Images" Paper Project
 
 Ep3 Pipeline - implementing the "Relaive Age Estimation" paper - final outcome of the research.
 
